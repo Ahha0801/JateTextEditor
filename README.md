@@ -15,11 +15,12 @@ Heroku Link:
 
 
 ## Installation
-Node.js downloaded
-npm install
-mysql run source db/schema.sql
-server to load schema with npm start
-mongo/DB
+- Node.js downloaded
+- npm install
+- mysql run source db/schema.sql
+- server to load schema with npm start
+- mongo/DB
+- Herku uplaod
 
 ## Usage
 Walk-through video link: 
