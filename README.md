@@ -1,11 +1,15 @@
 # PWA-TextEditor
-License used for this project - MIT
+
+- License - MIT
 
 ## Description
+
 The application is a web text editor where the user can create notes or code snippets with or without an internet connection and where the user can reliably retrieve them for later use. This application allows the user to access visited pages even if the application is offline.
 
-Heroku Link: 
+Heroku Link:
+
 ## Table of Contents
+
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -13,30 +17,34 @@ Heroku Link:
 - [Contribution](#contribution)
 - [Contact Information](#contact-information)
 
-
 ## Installation
-- Node.js downloaded
-- npm install
+
+- Node.js download
+- npm install/init
 - mysql run source db/schema.sql
 - server to load schema with npm start
 - mongo/DB
 - Herku uplaod
 
 ## Usage
-Walk-through video link: 
+
+Walk-through video link:
 
 Screen shots:
 
 ## Technologies
+
 - [Node.js]
 - [Sequelize]
 - [Express]
-- [Insomina] 
+- [Insomina]
 - [MongoDB]
 
 ## Contribution
+
 N/A
 
 ## Contact Information?
+
 Contact me Hana A,
-Github: github.com/ahha0801
+Github: github.com/Ahha0801
