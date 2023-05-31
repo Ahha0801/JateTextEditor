@@ -29,7 +29,10 @@ Heroku Link: https://texteditor-pwa19.herokuapp.com
 ## Usage
 
 Walk-through video link:!
-Screen shots:
+Screen shots:<img width="1520" alt="JATE screenshot" src="https://github.com/Ahha0801/JateTextEditor/assets/128229173/c4bbb90e-e42e-48df-b1a5-87aee06aa875">
+
+
+<img width="1090" alt="Screen Shot 2023-05-31 at 9 27 16 AM" src="https://github.com/Ahha0801/JateTextEditor/assets/128229173/6d67256b-db50-4378-a96e-b5a31c0d2f7d">
 
 
 ## Technologies
