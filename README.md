@@ -28,8 +28,7 @@ Heroku Link: https://texteditor-pwa19.herokuapp.com
 
 ## Usage
 
-Walk-through video link:
-
+Walk-through video link:!
 Screen shots:
 
 ## Technologies
